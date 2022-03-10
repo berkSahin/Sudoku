@@ -1,4 +1,4 @@
-# Basi Unique Sudoku Generator and Solver #
+# Basic Unique Sudoku Generator and Solver #
 
 ## Generate a Sudoku puzzle
 Generage a Sudoku puzzle, each puzzle will be unique e.g,
